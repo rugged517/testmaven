@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### Java ###
 *.class
 
@@ -14,6 +15,8 @@ hs_err_pid*
 
 
 ### Maven ###
+=======
+>>>>>>> d32f3d621abf09b5d87115570c96d801399796b1
 target/
 pom.xml.tag
 pom.xml.releaseBackup
@@ -22,4 +25,7 @@ pom.xml.next
 release.properties
 dependency-reduced-pom.xml
 buildNumber.properties
+<<<<<<< HEAD
 .mvn/timing.properties
+=======
+>>>>>>> d32f3d621abf09b5d87115570c96d801399796b1
